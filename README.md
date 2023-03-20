@@ -16,12 +16,16 @@ In this project, you are going to analyze international debt data collected by T
 
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
  
-
 ## <u>TOOLS USED</u>
 1. Tableau
 2. Python
 3. SQL
 4. MS Excel
+
+## <u>REQUIRED DOCUMENTS</u>
+1. [Wireframe]()
+2. [Architectural Design]()
+3. [Low Level Design]()
 
 ## <u>DEMO VIDEO</u>
 [Click here to view Demo Video of International Debt Statistics](https://www.youtube.com/watch?v=fMDu3x4Pmj8)
